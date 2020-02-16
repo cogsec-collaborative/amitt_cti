@@ -1,0 +1,46 @@
+{
+    "type": "bundle",
+    "id": "bundle--22e5fffe-3048-47c3-af0a-7872e405825e",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "id": "attack-pattern--8d30fd4c-b704-4d12-ac54-e0b904a4f5e9",
+            "created_by_ref": "identity--dcb70c08-a4b0-4d2d-8141-b28ca5f0a43a",
+            "created": "2019-12-08T02:27:58.322Z",
+            "modified": "2019-12-08T02:27:58.322Z",
+            "name": "Deny involvement",
+            "description": "Without \"smoking gun\" proof (and even with proof), incident creator can or will deny involvement. This technique also leverages the attacker advantages outlined in T0040 \"Demand unsurmountable proof\", specifically the asymmetric disadvantage for truth-tellers in a \"firehose of misinformation\" environment.",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "amitt-attack",
+                    "phase_name": "pump-priming"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "amitt-attack",
+                    "url": "https://github.com/misinfosecproject/amitt_framework/blob/master/techniques/T0041.md",
+                    "external_id": "T0041"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c32b1522-2b13-4159-8a40-56fd4151016d"
+            ],
+            "x_amitt_platforms": [
+                "Advertising",
+                "Audio",
+                "Augmented Reality",
+                "Digital Publication",
+                "Interactive Media",
+                "Mobile",
+                "Physical",
+                "Physical Publication",
+                "Social Media",
+                "Video",
+                "Video Game"
+            ],
+            "x_amitt_version": "1.0"
+        }
+    ]
+}

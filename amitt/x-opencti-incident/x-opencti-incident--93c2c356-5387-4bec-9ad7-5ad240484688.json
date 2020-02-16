@@ -1,0 +1,28 @@
+{
+    "type": "bundle",
+    "id": "bundle--e2105fcb-41f1-49ab-9dd5-1f1dde22bf42",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "x-opencti-incident",
+            "id": "x-opencti-incident--93c2c356-5387-4bec-9ad7-5ad240484688",
+            "created_by_ref": "identity--dcb70c08-a4b0-4d2d-8141-b28ca5f0a43a",
+            "created": "2019-03-20T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.348Z",
+            "name": "#HandsOffVenezuela",
+            "description": "Venezuela has been thrown into turmoil after Guaid\u00f3 declared himself interim president Jan. 23. The 35-year-old president of the National Assembly says Venezuela's constitution grants him power to take control of the government because Maduro was re-elected last year by fraud. Guaid\u00f3 has called for Maduro to leave office and call new elections.\n\nMore than 50 nations, including the United States and most of Latin America, concluded that Maduro's re-election last year was a fraud. They have recognized Juan Guaid\u00f3, president of the opposition-led National Assembly, as Venezuela's legitimate head of state, endorsing his mission to establish a transitional government and hold fresh elections.\nMaduro has remained defiant in the face of domestic and international pressure, securing the support of the governments of Iran and Russia, as well as the loyalty of the Venezuelan military.",
+            "first_seen": "2019-01-01T00:00:00Z",
+            "external_references": [
+                {
+                    "source_name": "euvsdisinfo.eu",
+                    "url": "https://euvsdisinfo.eu/twitter-as-an-information-battlefield-venezuela-a-case-study/",
+                    "external_id": "euvsdisinfo.eu: information battlefield venezuela"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c32b1522-2b13-4159-8a40-56fd4151016d"
+            ],
+            "x_identified_via": ""
+        }
+    ]
+}

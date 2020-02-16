@@ -1,0 +1,21 @@
+{
+    "type": "bundle",
+    "id": "bundle--806b7829-96b5-435e-bb65-bb49dcb4a859",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "identity",
+            "id": "identity--5d624c7f-4356-4092-aeee-e4e5cd2ac164",
+            "created": "2019-12-07T21:27:58.369Z",
+            "modified": "2019-12-08T02:27:58.369Z",
+            "name": "Saudi Arabia",
+            "description": "Saudi Arabia",
+            "identity_class": "organization",
+            "sectors": [
+                ""
+            ],
+            "contact_information": "",
+            "x_identified_via": ""
+        }
+    ]
+}

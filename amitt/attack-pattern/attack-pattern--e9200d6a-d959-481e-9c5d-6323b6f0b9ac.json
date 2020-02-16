@@ -1,0 +1,46 @@
+{
+    "type": "bundle",
+    "id": "bundle--cf0f3569-cd28-43ca-b4dc-12bfd914bbb7",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "id": "attack-pattern--e9200d6a-d959-481e-9c5d-6323b6f0b9ac",
+            "created_by_ref": "identity--dcb70c08-a4b0-4d2d-8141-b28ca5f0a43a",
+            "created": "2019-12-08T02:27:58.315Z",
+            "modified": "2019-12-08T02:27:58.315Z",
+            "name": "Promote online funding",
+            "description": "Drive traffic/engagement to funding campaign sites; helps provide measurable metrics to assess conversion rates",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "amitt-attack",
+                    "phase_name": "microtargeting"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "amitt-attack",
+                    "url": "https://github.com/misinfosecproject/amitt_framework/blob/master/techniques/T0017.md",
+                    "external_id": "T0017"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c32b1522-2b13-4159-8a40-56fd4151016d"
+            ],
+            "x_amitt_platforms": [
+                "Advertising",
+                "Audio",
+                "Augmented Reality",
+                "Digital Publication",
+                "Interactive Media",
+                "Mobile",
+                "Physical",
+                "Physical Publication",
+                "Social Media",
+                "Video",
+                "Video Game"
+            ],
+            "x_amitt_version": "1.0"
+        }
+    ]
+}

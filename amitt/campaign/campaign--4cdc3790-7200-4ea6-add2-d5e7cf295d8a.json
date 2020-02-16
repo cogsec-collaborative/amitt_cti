@@ -1,0 +1,29 @@
+{
+    "type": "bundle",
+    "id": "bundle--595588ab-9ef1-4663-9cc6-b8fc787a9a03",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "campaign",
+            "id": "campaign--4cdc3790-7200-4ea6-add2-d5e7cf295d8a",
+            "created": "2019-03-20T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.360Z",
+            "name": "Brexit/UK ongoing",
+            "description": "",
+            "first_seen": "2015-01-01T00:00:00Z",
+            "external_references": [
+                {
+                    "source_name": "Politico",
+                    "url": "https://www.politico.eu/article/britain-nationalist-dark-web-populism-tommy-robinson/",
+                    "external_id": "Politico: britain nationalists"
+                },
+                {
+                    "source_name": "Europarl",
+                    "url": "http://www.europarl.europa.eu/thinktank/en/document.html?reference=EPRS_STU",
+                    "external_id": "Europarl: 2EPRS_STU 2019"
+                }
+            ],
+            "x_identified_via": ""
+        }
+    ]
+}

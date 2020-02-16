@@ -1,0 +1,28 @@
+{
+    "type": "bundle",
+    "id": "bundle--ab7de219-3ef5-41e0-9f0d-7c48e72a0f66",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "x-opencti-incident",
+            "id": "x-opencti-incident--9dbc6519-6551-499d-8c5e-2177b1b6e30e",
+            "created_by_ref": "identity--dcb70c08-a4b0-4d2d-8141-b28ca5f0a43a",
+            "created": "2019-02-24T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.337Z",
+            "name": "GiletsJaunePileon",
+            "description": "",
+            "first_seen": "2018-01-01T00:00:00Z",
+            "external_references": [
+                {
+                    "source_name": "Wired",
+                    "url": "https://www.wired.com/story/co-opting-french-unrest-spread-disinformation/",
+                    "external_id": "Wired: co-opting french unrest"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c32b1522-2b13-4159-8a40-56fd4151016d"
+            ],
+            "x_identified_via": ""
+        }
+    ]
+}

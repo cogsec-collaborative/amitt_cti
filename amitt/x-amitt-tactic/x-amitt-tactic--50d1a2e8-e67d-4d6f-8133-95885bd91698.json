@@ -1,0 +1,27 @@
+{
+    "type": "bundle",
+    "id": "bundle--72fb8e6c-f7a4-4e5a-ba11-3de2ef6c0e9a",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "x-amitt-tactic",
+            "id": "x-amitt-tactic--50d1a2e8-e67d-4d6f-8133-95885bd91698",
+            "created_by_ref": "identity--dcb70c08-a4b0-4d2d-8141-b28ca5f0a43a",
+            "created": "2019-12-08T02:27:58.308Z",
+            "modified": "2019-12-08T02:27:58.308Z",
+            "name": "Develop People",
+            "description": "Develop online and offline users and agents, including automated personas",
+            "external_references": [
+                {
+                    "source_name": "amitt-attack",
+                    "url": "https://github.com/misinfosecproject/amitt_framework/blob/master/tactics/TA03.md",
+                    "external_id": "TA03"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c32b1522-2b13-4159-8a40-56fd4151016d"
+            ],
+            "x_amitt_shortname": "develop-people"
+        }
+    ]
+}

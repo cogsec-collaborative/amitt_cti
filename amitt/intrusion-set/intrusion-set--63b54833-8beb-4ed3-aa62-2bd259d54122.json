@@ -1,0 +1,34 @@
+{
+    "type": "bundle",
+    "id": "bundle--21a60eec-e403-4726-a91c-efe601e2477b",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "intrusion-set",
+            "id": "intrusion-set--63b54833-8beb-4ed3-aa62-2bd259d54122",
+            "created": "2019-12-07T21:27:58.364Z",
+            "modified": "2019-12-08T02:27:58.364Z",
+            "name": "50cent Army",
+            "description": "50cent Army is a CCP \u201ctool\u201d  - \u201cmassive secret operation\u201d in China pumping out an estimated 488 million fabricated social media posts per year, part of an effort to \u201cregularly distract the public and change the subject\u201d from any policy-related issues that threaten to anger citizens enough to turn them out onto the streets. But the research finds no evidence these 50-centers are, in fact, paid 50 cents, nor does it find they engage in direct and angry argument with their opponents. Instead, they are mostly bureaucrats already on the public payroll, responding to government directives at a time of heightened tension to flood social media with pro-government cheerleading.",
+            "first_seen": "2014-01-01T00:00:00Z",
+            "resource_level": "government",
+            "primary_motivation": "ideology",
+            "secondary_motivations": [
+                ""
+            ],
+            "external_references": [
+                {
+                    "source_name": "Harvard.edu",
+                    "url": "https://gking.harvard.edu/files/gking/files/how_the_chinese_government_fabricates_social_media_posts_for_strategic_distraction_not_engaged_argument.pdf",
+                    "external_id": "Harvard.edu: chinese government fabricates social media"
+                },
+                {
+                    "source_name": "VOA News",
+                    "url": "https://www.voanews.com/a/who-is-that-chinese-troll/3540663.html",
+                    "external_id": "VOA News: who is that chinese troll"
+                }
+            ],
+            "x_identified_via": ""
+        }
+    ]
+}

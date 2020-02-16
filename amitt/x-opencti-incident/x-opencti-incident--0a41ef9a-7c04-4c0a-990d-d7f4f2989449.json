@@ -1,0 +1,28 @@
+{
+    "type": "bundle",
+    "id": "bundle--976f4dab-6880-41b0-b209-b494eb8ce308",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "x-opencti-incident",
+            "id": "x-opencti-incident--0a41ef9a-7c04-4c0a-990d-d7f4f2989449",
+            "created_by_ref": "identity--dcb70c08-a4b0-4d2d-8141-b28ca5f0a43a",
+            "created": "2019-02-24T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.334Z",
+            "name": "Bujic",
+            "description": "",
+            "first_seen": "2017-01-01T00:00:00Z",
+            "external_references": [
+                {
+                    "source_name": "Stopfake",
+                    "url": "https://www.stopfake.org/en/vencislav-the-virgin-hostile-operation-by-vencislav-bujic-seas-foundation-and-its-network-of-collaborators/",
+                    "external_id": "Stopfake: the virgin hostil operation"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c32b1522-2b13-4159-8a40-56fd4151016d"
+            ],
+            "x_identified_via": ""
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "type": "bundle",
+    "id": "bundle--e7c44e7a-7b23-47ff-93cc-aa2e9740c99c",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "x-opencti-incident",
+            "id": "x-opencti-incident--37198b4b-5ad7-4c89-9624-12e898c4ff0a",
+            "created_by_ref": "identity--dcb70c08-a4b0-4d2d-8141-b28ca5f0a43a",
+            "created": "2019-02-24T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.344Z",
+            "name": "MerkelFacebook",
+            "description": "Top stories about Merkel in both German and English were negative and misleading, most published from fake news sites.",
+            "first_seen": "2017-01-01T00:00:00Z",
+            "external_references": [
+                {
+                    "source_name": "BuzzFeed",
+                    "url": "https://www.buzzfeed.com/albertonardelli/hyperpartisan-sites-and-facebook-pages-are-publishing-false",
+                    "external_id": "BuzzFeed: hyperpartisan sites"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c32b1522-2b13-4159-8a40-56fd4151016d"
+            ],
+            "x_identified_via": "OII"
+        }
+    ]
+}

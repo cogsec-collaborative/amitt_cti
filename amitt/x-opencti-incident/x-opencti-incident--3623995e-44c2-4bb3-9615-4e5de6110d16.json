@@ -1,0 +1,28 @@
+{
+    "type": "bundle",
+    "id": "bundle--5d238b69-f4e6-451f-8739-9da2f46d60a7",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "x-opencti-incident",
+            "id": "x-opencti-incident--3623995e-44c2-4bb3-9615-4e5de6110d16",
+            "created_by_ref": "identity--dcb70c08-a4b0-4d2d-8141-b28ca5f0a43a",
+            "created": "2019-02-24T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.340Z",
+            "name": "Netherlands referendum on Ukraine",
+            "description": "",
+            "first_seen": "2016-01-01T00:00:00Z",
+            "external_references": [
+                {
+                    "source_name": "Washington Post",
+                    "url": "https://www.washingtonpost.com/opinions/russias-influence-in-western-elections/2016/04/08/b427602a-fcf1-11e5-886f-a037dba38301_story.html",
+                    "external_id": "Washington Post 2016\u201304-08"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c32b1522-2b13-4159-8a40-56fd4151016d"
+            ],
+            "x_identified_via": "OII"
+        }
+    ]
+}

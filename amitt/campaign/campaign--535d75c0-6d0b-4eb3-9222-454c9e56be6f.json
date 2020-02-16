@@ -1,0 +1,49 @@
+{
+    "type": "bundle",
+    "id": "bundle--ec504e38-9d5f-4222-9886-fc01ca6c6ead",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "campaign",
+            "id": "campaign--535d75c0-6d0b-4eb3-9222-454c9e56be6f",
+            "created": "2019-03-20T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.357Z",
+            "name": "Iran Influence Operations",
+            "description": "Iranian interference in the politics of Arab countries has become more self-evident since the Arab Spring of 2011. Iran has been trying to widen its influence in the region in a political confrontation with Saudi Arabia. Factor long-held hostility to US (Iran as a member of the \u201cAxis of Evil\u201d) & Isreal; it\u2019s funding of proxies (Hezbolla) and Shia militia\u2019s in Iraq; and most recently having the Revolutionary Guard being designated a terror organization; the seeming collapse of the Joint Comprehensive Plan of Action (nuclear programme) and expanding economic sanctions all add up to an increased likihood of Iran expanding their information operations.\nWhile there is history to Iran\u2019s information/influence operations, starting with FireEye\u2019s report about Iranian \u201cfake news\u201d websites, and subsequent reports by DFRLab (Jan 31, 2019 and March 26, 2019) we have strong document proof and assets that highlight Iran\u2019s activities.",
+            "first_seen": "2012-01-01T00:00:00Z",
+            "external_references": [
+                {
+                    "source_name": "FireEye",
+                    "url": "https://www.fireeye.com/blog/threat-research/2018/08/suspected-iranian-influence-operation.html",
+                    "external_id": "FireEye: iranian influence operation"
+                },
+                {
+                    "source_name": "Reuters",
+                    "url": "https://www.reuters.com/article/us-cyber-iran-specialreport/special-report-how-iran-spreads-disinformation-around-the-world-idUSKCN1NZ1FT",
+                    "external_id": "Reuters: how iran spreads disinformation"
+                },
+                {
+                    "source_name": "Rand",
+                    "url": "https://www.rand.org/blog/2018/08/irans-disinformation-campaigns.html",
+                    "external_id": "Rand: irans disinformation campaign"
+                },
+                {
+                    "source_name": "Medium",
+                    "url": "https://medium.com/dfrlab/takedown-details-of-the-iranian-propaganda-network-d1fad32fdf30",
+                    "external_id": "Medium: details of iranian propaganda"
+                },
+                {
+                    "source_name": "Medium",
+                    "url": "https://medium.com/dfrlab/trolltracker-outward-influence-operation-from-iran-cc4539684c8d",
+                    "external_id": "Medium: trolltracker outward influence operation"
+                },
+                {
+                    "source_name": "oii.ok.ac.uk",
+                    "url": "https://comprop.oii.ox.ac.uk/wp-content/uploads/sites/93/2019/04/Iran-Memo.pdf",
+                    "external_id": "oii.ox.ac.uk: iran memo"
+                }
+            ],
+            "x_identified_via": ""
+        }
+    ]
+}

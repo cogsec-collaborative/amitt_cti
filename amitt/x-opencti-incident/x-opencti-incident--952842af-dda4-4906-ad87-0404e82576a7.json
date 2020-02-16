@@ -1,0 +1,33 @@
+{
+    "type": "bundle",
+    "id": "bundle--cba5fc64-c05f-402e-85aa-3902e685aedd",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "x-opencti-incident",
+            "id": "x-opencti-incident--952842af-dda4-4906-ad87-0404e82576a7",
+            "created_by_ref": "identity--dcb70c08-a4b0-4d2d-8141-b28ca5f0a43a",
+            "created": "2019-03-20T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.349Z",
+            "name": "Integrity Initiative",
+            "description": "The UK Foreign Office has accused Russian state media of trying to discredit a government-funded body that works to counter Kremlin disinformation. A spokesperson said the Institute for Statecraft was hacked several weeks ago and documents were \"published and amplified by Kremlin news channels\".\nThe FCO comments on the IfS were issued after a news report said the group had retweeted stories critical of Labour. Western officials believe the group involved in the hack is linked to the Russian state. Since then internal documents have been leaked to the Russian media about the organisation's activities, including lists of journalists it had contacted. The Foreign Office has provided \u00a32.2m in funding to the institute over the last two years supported its work to counter disinformation overseas and not in the UK",
+            "first_seen": "2018-01-01T00:00:00Z",
+            "external_references": [
+                {
+                    "source_name": "eaworldview.com",
+                    "url": "https://eaworldview.com/2019/01/counter-russia-disinformation-integrity-initiative/",
+                    "external_id": "eaworldview.com: counter russia disinformation"
+                },
+                {
+                    "source_name": "Stopfake",
+                    "url": "https://www.stopfake.org/en/kremlin-watch-briefing-the-eu-has-to-start-taking-pro-kremlin-disinformation-seriously/",
+                    "external_id": "Stopfake: kremlin watch"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c32b1522-2b13-4159-8a40-56fd4151016d"
+            ],
+            "x_identified_via": ""
+        }
+    ]
+}

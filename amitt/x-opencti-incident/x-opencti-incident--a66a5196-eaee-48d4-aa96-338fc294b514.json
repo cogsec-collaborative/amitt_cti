@@ -1,0 +1,28 @@
+{
+    "type": "bundle",
+    "id": "bundle--a7d10461-18c4-4a97-a3c5-3edeb10ec12f",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "x-opencti-incident",
+            "id": "x-opencti-incident--a66a5196-eaee-48d4-aa96-338fc294b514",
+            "created_by_ref": "identity--dcb70c08-a4b0-4d2d-8141-b28ca5f0a43a",
+            "created": "2019-02-24T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.335Z",
+            "name": "PhilippinesExpert",
+            "description": "President of the Philippine visited Moscow and forged ties on information strategy in 2017, and afterwards a series of disinformation campaign was noted in Philippine social media and mainstream media, mostly in favor of Philippine president and promoting Russian propaganda. Among this is the appearance of an unknown-before expert on global affairs who was cited frequently in Russian IRA-connected outlets. ",
+            "first_seen": "2017-01-01T00:00:00Z",
+            "external_references": [
+                {
+                    "source_name": "Codastory",
+                    "url": "https://codastory.com/disinformation/how-a-little-known-pro-kremlin-analyst-became-a-philippine-expert-overnight/",
+                    "external_id": "Codastory: little known pro-kremlin activist"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c32b1522-2b13-4159-8a40-56fd4151016d"
+            ],
+            "x_identified_via": ""
+        }
+    ]
+}

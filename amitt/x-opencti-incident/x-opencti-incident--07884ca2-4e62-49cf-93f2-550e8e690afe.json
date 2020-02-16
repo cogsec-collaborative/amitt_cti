@@ -1,0 +1,28 @@
+{
+    "type": "bundle",
+    "id": "bundle--5f1b0654-b4d4-43a8-9fb5-371806be7d64",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "x-opencti-incident",
+            "id": "x-opencti-incident--07884ca2-4e62-49cf-93f2-550e8e690afe",
+            "created_by_ref": "identity--dcb70c08-a4b0-4d2d-8141-b28ca5f0a43a",
+            "created": "2019-02-24T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.339Z",
+            "name": "EU Army",
+            "description": "Traces back to 2016: Guardian \u201cIs there a secret plan to create an EU army?\u201d French President Emmanuel Macron has warned that Europeans cannot be protected without a \"true, European army\", as he marks the centenary of the World War One Armistice. On a visit to the former Western Front in Verdun, he said Russia had shown it could be a threat and Europe had to be able \"to defend itself better alone\". German Chancellor Angela Merkel backed the idea of an intervention force in June, but said it would have to be part of \"the structure of defence co-operation\".\n\nVerdict: \u201cAn EU army marching out to war under Brussels\u2019 command is a fantasy shared by Eurosceptics and a small number of federalists. Europe will continue down the road of defence cooperation in a halting way, but an EU army is only for armchair generals.\u201d",
+            "first_seen": "2018-01-01T00:00:00Z",
+            "external_references": [
+                {
+                    "source_name": "Medium",
+                    "url": "https://medium.com/dfrlab/spread-it-on-reddit-3170a463e787",
+                    "external_id": "Medium: spread it on reddit"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c32b1522-2b13-4159-8a40-56fd4151016d"
+            ],
+            "x_identified_via": "OII"
+        }
+    ]
+}

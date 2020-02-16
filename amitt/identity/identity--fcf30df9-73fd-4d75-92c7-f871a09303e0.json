@@ -1,0 +1,21 @@
+{
+    "type": "bundle",
+    "id": "bundle--d6ccc052-32a9-4128-be52-6783fb310927",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "identity",
+            "id": "identity--fcf30df9-73fd-4d75-92c7-f871a09303e0",
+            "created": "2019-12-07T21:27:58.370Z",
+            "modified": "2019-12-08T02:27:58.370Z",
+            "name": "Lithuania",
+            "description": "Lithuania",
+            "identity_class": "organization",
+            "sectors": [
+                ""
+            ],
+            "contact_information": "",
+            "x_identified_via": ""
+        }
+    ]
+}

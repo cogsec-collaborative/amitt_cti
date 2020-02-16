@@ -1,0 +1,28 @@
+{
+    "type": "bundle",
+    "id": "bundle--94ad624a-ca9f-4dff-a388-b467b64836a3",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "x-opencti-incident",
+            "id": "x-opencti-incident--49897485-75a8-42c6-b0d4-01e59a6603fe",
+            "created_by_ref": "identity--dcb70c08-a4b0-4d2d-8141-b28ca5f0a43a",
+            "created": "2019-02-25T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.346Z",
+            "name": "JadeHelm exercise",
+            "description": "In the summer of 2015, thousands of troops from the US Army Special Operations command conducted and multi-state, weeks-long training operation across the southwest. Russian trolls amplified conspiracy theories promoted by far right media operatives such as Alex Jones, specifically: the Jade Helm 15 exercise was a precursor to domestic invasion and subsequent martial law by the Obama Administration in coordination with China. Some versions have deus ex machina such as an asteroid strike. Ultimately the Governor of Texas, Greg Abbot, was forced to speak out on the conspiracy theory, but he hedged on Obama\u2019s motives.",
+            "first_seen": "2015-01-01T00:00:00Z",
+            "external_references": [
+                {
+                    "source_name": "Politifact",
+                    "url": "https://www.politifact.com/texas/article/2018/may/03/jade-helm-15-greg-abbott-texas-state-guard-hayden-/",
+                    "external_id": "Politifact 2018-05-03"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c32b1522-2b13-4159-8a40-56fd4151016d"
+            ],
+            "x_identified_via": "MIS"
+        }
+    ]
+}

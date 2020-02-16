@@ -1,0 +1,28 @@
+{
+    "type": "bundle",
+    "id": "bundle--0e2da1bf-b7ee-4805-9f1b-6525b609b22c",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "x-opencti-incident",
+            "id": "x-opencti-incident--2d60ed11-1b52-4ca8-b195-296737608a06",
+            "created_by_ref": "identity--dcb70c08-a4b0-4d2d-8141-b28ca5f0a43a",
+            "created": "2019-02-01T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.337Z",
+            "name": "ConcordDiscovery",
+            "description": "The Office of Special Counsel accused Concord Management (an IRA funder/handler) and its counsel of abusing the discovery process by leaking discovery materials under false pretences: the documents were altered; the documents were portrayed as material obtained by hacking, rather than legal process; the released documents are selected to maximize exposure targets and methods. ",
+            "first_seen": "2019-01-01T00:00:00Z",
+            "external_references": [
+                {
+                    "source_name": "The Atlantic",
+                    "url": "https://www.theatlantic.com/politics/archive/2019/02/new-mueller-filing-shows-how-russia-misuses-us-courts/581884/",
+                    "external_id": "The Atlantic: new mueller filing"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c32b1522-2b13-4159-8a40-56fd4151016d"
+            ],
+            "x_identified_via": ""
+        }
+    ]
+}

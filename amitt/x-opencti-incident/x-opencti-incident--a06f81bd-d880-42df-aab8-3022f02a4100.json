@@ -1,0 +1,28 @@
+{
+    "type": "bundle",
+    "id": "bundle--f2025bf2-3ad7-435d-9739-ae0dd3b9e407",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "x-opencti-incident",
+            "id": "x-opencti-incident--a06f81bd-d880-42df-aab8-3022f02a4100",
+            "created_by_ref": "identity--dcb70c08-a4b0-4d2d-8141-b28ca5f0a43a",
+            "created": "2019-02-24T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.340Z",
+            "name": "crucifiedboy",
+            "description": "",
+            "first_seen": "2014-01-01T00:00:00Z",
+            "external_references": [
+                {
+                    "source_name": "Helda Helsinki",
+                    "url": "https://helda.helsinki.fi//bitstream/handle/10138/233374/KhaldarovaPanttiFakeNews.pdf?sequence=1",
+                    "external_id": "Helda Helsinki: Khaldarova Pantti Fake News"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c32b1522-2b13-4159-8a40-56fd4151016d"
+            ],
+            "x_identified_via": "OII"
+        }
+    ]
+}

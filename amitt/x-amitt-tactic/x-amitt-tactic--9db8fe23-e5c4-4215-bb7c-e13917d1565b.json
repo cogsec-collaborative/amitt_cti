@@ -1,0 +1,27 @@
+{
+    "type": "bundle",
+    "id": "bundle--1be7188e-e7ab-4d8d-bc04-b62aafc416d1",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "x-amitt-tactic",
+            "id": "x-amitt-tactic--9db8fe23-e5c4-4215-bb7c-e13917d1565b",
+            "created_by_ref": "identity--dcb70c08-a4b0-4d2d-8141-b28ca5f0a43a",
+            "created": "2019-12-08T02:27:58.309Z",
+            "modified": "2019-12-08T02:27:58.309Z",
+            "name": "Develop Content",
+            "description": "Create and acquire content used in incident",
+            "external_references": [
+                {
+                    "source_name": "amitt-attack",
+                    "url": "https://github.com/misinfosecproject/amitt_framework/blob/master/tactics/TA06.md",
+                    "external_id": "TA06"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c32b1522-2b13-4159-8a40-56fd4151016d"
+            ],
+            "x_amitt_shortname": "develop-content"
+        }
+    ]
+}

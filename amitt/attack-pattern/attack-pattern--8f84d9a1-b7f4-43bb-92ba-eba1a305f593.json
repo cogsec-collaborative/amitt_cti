@@ -1,0 +1,46 @@
+{
+    "type": "bundle",
+    "id": "bundle--6aa1971d-04c0-4c1d-a37c-17889f89f83c",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "attack-pattern",
+            "id": "attack-pattern--8f84d9a1-b7f4-43bb-92ba-eba1a305f593",
+            "created_by_ref": "identity--dcb70c08-a4b0-4d2d-8141-b28ca5f0a43a",
+            "created": "2019-12-08T02:27:58.315Z",
+            "modified": "2019-12-08T02:27:58.315Z",
+            "name": "Create hashtag",
+            "description": "Many incident-based campaigns will create a hashtag to promote their fabricated event (e.g. #ColumbianChemicals to promote a fake story about a chemical spill in Louisiana). \n\nCreating a hashtag for an incident can have two important effects:\n1. Create a perception of reality around an event. Certainly only \"real\" events would be discussed in a hashtag. After all, the event has a name!\n2. Publicize the story more widely through trending lists and search behavior \n\nAsset needed to direct/control/manage \"conversation\" connected to launching new incident/campaign with new hashtag for applicable social media sites ie: Twitter, LinkedIn)",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "amitt-attack",
+                    "phase_name": "develop-networks"
+                }
+            ],
+            "external_references": [
+                {
+                    "source_name": "amitt-attack",
+                    "url": "https://github.com/misinfosecproject/amitt_framework/blob/master/techniques/T0015.md",
+                    "external_id": "T0015"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c32b1522-2b13-4159-8a40-56fd4151016d"
+            ],
+            "x_amitt_platforms": [
+                "Advertising",
+                "Audio",
+                "Augmented Reality",
+                "Digital Publication",
+                "Interactive Media",
+                "Mobile",
+                "Physical",
+                "Physical Publication",
+                "Social Media",
+                "Video",
+                "Video Game"
+            ],
+            "x_amitt_version": "1.0"
+        }
+    ]
+}

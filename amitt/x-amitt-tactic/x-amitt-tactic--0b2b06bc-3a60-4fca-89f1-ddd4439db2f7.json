@@ -1,0 +1,27 @@
+{
+    "type": "bundle",
+    "id": "bundle--16f992dd-cc20-490e-b795-66b8cabc987a",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "x-amitt-tactic",
+            "id": "x-amitt-tactic--0b2b06bc-3a60-4fca-89f1-ddd4439db2f7",
+            "created_by_ref": "identity--dcb70c08-a4b0-4d2d-8141-b28ca5f0a43a",
+            "created": "2019-12-08T02:27:58.310Z",
+            "modified": "2019-12-08T02:27:58.310Z",
+            "name": "Measure Effectiveness",
+            "description": "Measure effectiveness of incident, for use in planning future events",
+            "external_references": [
+                {
+                    "source_name": "amitt-attack",
+                    "url": "https://github.com/misinfosecproject/amitt_framework/blob/master/tactics/TA12.md",
+                    "external_id": "TA12"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c32b1522-2b13-4159-8a40-56fd4151016d"
+            ],
+            "x_amitt_shortname": "measure-effectiveness"
+        }
+    ]
+}

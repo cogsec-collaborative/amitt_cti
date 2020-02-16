@@ -1,0 +1,28 @@
+{
+    "type": "bundle",
+    "id": "bundle--9d063f19-ae9f-4316-808b-56c6f3f2f23a",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "x-opencti-incident",
+            "id": "x-opencti-incident--0ae02757-c7f9-4ec0-8fce-a4e72abd8cf0",
+            "created_by_ref": "identity--dcb70c08-a4b0-4d2d-8141-b28ca5f0a43a",
+            "created": "2019-02-24T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.338Z",
+            "name": "#Macronleaks",
+            "description": "Countering the spreading of an alleged 9GB of \u201cleaked\u201d, fake documents of Macron campaign",
+            "first_seen": "2017-01-01T00:00:00Z",
+            "external_references": [
+                {
+                    "source_name": "Medium",
+                    "url": "https://medium.com/dfrlab/hashtag-campaign-macronleaks-4a3fb870c4e8",
+                    "external_id": "Medium: hashtag campaign"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c32b1522-2b13-4159-8a40-56fd4151016d"
+            ],
+            "x_identified_via": "OII"
+        }
+    ]
+}

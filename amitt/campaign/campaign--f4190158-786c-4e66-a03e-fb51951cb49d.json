@@ -1,0 +1,24 @@
+{
+    "type": "bundle",
+    "id": "bundle--f75ac39d-9f75-49ef-92a2-0d6082d79e17",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "campaign",
+            "id": "campaign--f4190158-786c-4e66-a03e-fb51951cb49d",
+            "created": "2019-04-06T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.356Z",
+            "name": "Olympic Doping Scandal",
+            "description": "On 18 July 2016, Richard McLaren, a Canadian attorney retained by WADA to investigate Grigor Rodchenkov (the former head of Russia's national anti-doping laboratory, the Anti-Doping Center, which was suspended by the World Anti-Doping Agency (WADA) in November 2015 for facilitating Russia's elaborate state-sponsored doping program. Rodchenkov helped develop and distribute banned performance-enhancing substances for thousands of Russian Olympians from 2005 to 2015. He made headlines in 2016 as a whistleblower, helping expose the complex and extensive nature of Russia's doping program. His revelations lead to Russia's partial ban from the 2016 Summer Olympics and total ban from the 2018 Winter Olympics.). These allegations led to a 97-page report covering significant state-sponsored doping in Russia. \n\nThe investigation found corroborating evidence after conducting witness interviews, reviewing thousands of documents, analysis of hard drives, forensic analysis of urine sample collection bottles, and laboratory analysis of individual athlete samples, with \"more evidence becoming available by the day.\" The report concluded that it was shown \"beyond a reasonable doubt\" that Russia's Ministry of Sport, the Centre of Sports Preparation of the National Teams of Russia, the Federal Security Service (FSB), and the WADA-accredited laboratory in Moscow had \"operated for the protection of doped Russian athletes\" within a \"state-directed failsafe system\" using \"the disappearing positive [test] methodology\" (DPM) after the country's poor medal count during the 2010 Winter Olympic Games in Vancouver. McLaren stated that urine samples were opened in Sochi in order to swap them \"without any evidence to the untrained eye\". The official producer of BEREG-KIT security bottles used for anti-doping tests, Berlinger Group, stated, \"We have no knowledge of the specifications, the methods or the procedures involved in the tests and experiments conducted by the McLaren Commission.\"",
+            "first_seen": "2016-01-01T00:00:00Z",
+            "external_references": [
+                {
+                    "source_name": "New York Times",
+                    "url": "https://www.nytimes.com/2016/05/13/sports/russia-doping-sochi-olympics-2014.html?module=inline",
+                    "external_id": "New York Times 2016-05-13"
+                }
+            ],
+            "x_identified_via": ""
+        }
+    ]
+}

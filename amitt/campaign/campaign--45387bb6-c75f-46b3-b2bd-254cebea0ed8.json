@@ -1,0 +1,24 @@
+{
+    "type": "bundle",
+    "id": "bundle--fb358bef-23d0-4745-a9e0-e2d5ce079a92",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "campaign",
+            "id": "campaign--45387bb6-c75f-46b3-b2bd-254cebea0ed8",
+            "created": "2019-02-01T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.354Z",
+            "name": "LithuanianElves",
+            "description": "",
+            "first_seen": "2014-01-01T00:00:00Z",
+            "external_references": [
+                {
+                    "source_name": "FT",
+                    "url": "https://www.ft.com/content/b3701b12-2544-11e9-b329-c7e6ceb5ffdf",
+                    "external_id": "FT c7e6ceb5ffdf"
+                }
+            ],
+            "x_identified_via": ""
+        }
+    ]
+}

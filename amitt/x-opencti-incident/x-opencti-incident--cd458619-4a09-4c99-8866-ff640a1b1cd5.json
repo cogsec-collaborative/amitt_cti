@@ -1,0 +1,28 @@
+{
+    "type": "bundle",
+    "id": "bundle--cafe7f9d-52d7-40ca-ad7c-ab7b60fd18fc",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "x-opencti-incident",
+            "id": "x-opencti-incident--cd458619-4a09-4c99-8866-ff640a1b1cd5",
+            "created_by_ref": "identity--dcb70c08-a4b0-4d2d-8141-b28ca5f0a43a",
+            "created": "2019-02-24T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.345Z",
+            "name": "Refugee crime map",
+            "description": "",
+            "first_seen": "2017-01-01T00:00:00Z",
+            "external_references": [
+                {
+                    "source_name": "uebermedien.de",
+                    "url": "https://uebermedien.de/11488/kartenlegen-mit-kriminellen-auslaendern/",
+                    "external_id": "uebermedien.de: 11488"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c32b1522-2b13-4159-8a40-56fd4151016d"
+            ],
+            "x_identified_via": "OII"
+        }
+    ]
+}

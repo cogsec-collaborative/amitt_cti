@@ -1,0 +1,16 @@
+{
+    "type": "bundle",
+    "id": "bundle--4136943b-246e-412e-b8fb-b0d6839ed136",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "relationship",
+            "id": "relationship--f750e043-9b17-4d36-b2cb-7f4177b55030",
+            "created": "2019-12-08T02:27:58.406Z",
+            "modified": "2019-12-08T02:27:58.406Z",
+            "relationship_type": "targets",
+            "source_ref": "x-opencti-incident--19f8ca0d-c174-431c-a700-031a2b15b88e",
+            "target_ref": "identity--1e12546b-6f08-44ca-ae89-7a720aeb350c"
+        }
+    ]
+}

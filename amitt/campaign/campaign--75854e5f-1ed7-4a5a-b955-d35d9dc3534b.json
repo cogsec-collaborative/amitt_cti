@@ -1,0 +1,29 @@
+{
+    "type": "bundle",
+    "id": "bundle--b0f7e6af-5c61-4150-9ca6-ef780f8b3231",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "campaign",
+            "id": "campaign--75854e5f-1ed7-4a5a-b955-d35d9dc3534b",
+            "created": "2019-03-20T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.357Z",
+            "name": "White Helmets",
+            "description": "",
+            "first_seen": "2015-01-01T00:00:00Z",
+            "external_references": [
+                {
+                    "source_name": "TheSyrianCampaign.org",
+                    "url": "https://thesyriacampaign.org/wp-content/uploads/2017/12/KillingtheTruth.pdf",
+                    "external_id": "TheSyriaCampaign.org: killing the truth"
+                },
+                {
+                    "source_name": "The Guardian",
+                    "url": "https://www.theguardian.com/world/2017/dec/18/syria-white-helmets-conspiracy-theories",
+                    "external_id": "The Guardian 2017-12-18"
+                }
+            ],
+            "x_identified_via": ""
+        }
+    ]
+}
