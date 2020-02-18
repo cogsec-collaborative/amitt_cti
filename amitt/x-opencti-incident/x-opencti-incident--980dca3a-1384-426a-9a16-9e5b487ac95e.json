@@ -1,0 +1,28 @@
+{
+    "type": "bundle",
+    "id": "bundle--115056f4-723b-4a8c-9a9f-57b0045fb6e5",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "x-opencti-incident",
+            "id": "x-opencti-incident--980dca3a-1384-426a-9a16-9e5b487ac95e",
+            "created_by_ref": "identity--dcb70c08-a4b0-4d2d-8141-b28ca5f0a43a",
+            "created": "2019-02-24T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.343Z",
+            "name": "Rioelections",
+            "description": "",
+            "first_seen": "2016-01-01T00:00:00Z",
+            "external_references": [
+                {
+                    "source_name": "uol.com.br",
+                    "url": "https://www1.folha.uol.com.br/poder/eleicoes-2016/2016/10/1823713-eleicao-no-rio-tem-tatica-antiboato-e-suspeita-de-uso-de-robos.shtml",
+                    "external_id": "uol.com.br: 2016-10-1823713"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c32b1522-2b13-4159-8a40-56fd4151016d"
+            ],
+            "x_identified_via": "OII"
+        }
+    ]
+}

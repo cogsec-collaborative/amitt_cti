@@ -1,0 +1,27 @@
+{
+    "type": "bundle",
+    "id": "bundle--85eebabe-2c72-4363-b0fa-4a4caf525d7c",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "x-amitt-tactic",
+            "id": "x-amitt-tactic--f37849dd-f03a-453b-b799-8e931ba9ec7a",
+            "created_by_ref": "identity--dcb70c08-a4b0-4d2d-8141-b28ca5f0a43a",
+            "created": "2019-12-08T02:27:58.310Z",
+            "modified": "2019-12-08T02:27:58.310Z",
+            "name": "Go Physical",
+            "description": "Move incident into offline world",
+            "external_references": [
+                {
+                    "source_name": "amitt-attack",
+                    "url": "https://github.com/misinfosecproject/amitt_framework/blob/master/tactics/TA10.md",
+                    "external_id": "TA10"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c32b1522-2b13-4159-8a40-56fd4151016d"
+            ],
+            "x_amitt_shortname": "go-physical"
+        }
+    ]
+}

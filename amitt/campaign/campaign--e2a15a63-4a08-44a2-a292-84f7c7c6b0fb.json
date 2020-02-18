@@ -1,0 +1,34 @@
+{
+    "type": "bundle",
+    "id": "bundle--5986fa08-db1d-4b13-b3e1-d1de295a5dd0",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "campaign",
+            "id": "campaign--e2a15a63-4a08-44a2-a292-84f7c7c6b0fb",
+            "created": "2019-02-24T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.355Z",
+            "name": "MH17 investigation",
+            "description": "Since the shooting down of Malaysia Airlines Flight 17 (MH17) a scheduled passenger flight from Amsterdam to Kuala Lumpur on 17 July 2014 while flying over eastern Ukraine, killing all 283 passengers and 15 crew on board\u2026 wreckage of the aircraft fell near Hrabove in Donetsk Oblast, Ukraine, 40 km (25 mi) from the border.The shoot-down occurred in the War in Donbass, during the Battle of Shakhtarsk, in an area controlled by pro-Russian rebels. This has proven to be an ongoing example of Russia and their proxies ability to wage a disinformation campaign, and exemplify the use of the 4 D\u2019s (dismiss, distort, distract, and dismay) ",
+            "first_seen": "2016-01-01T00:00:00Z",
+            "external_references": [
+                {
+                    "source_name": "Novayagazeta",
+                    "url": "https://www.novayagazeta.ru/news/2015/05/07/112052-facebook-zablokiroval-sergeya-parhomenko-za-kommentariy-doklada-o-sbitom-171-boinge-187",
+                    "external_id": "Novayagazeta 2015-05-07"
+                },
+                {
+                    "source_name": "New Online",
+                    "url": "https://news.online.ua/754036/v-sotssetyah-na-paltsah-pokazali-kak-rabotayut-boty-kremlya-opublikovany-foto/",
+                    "external_id": "News Online: 754036"
+                },
+                {
+                    "source_name": "The Mirror",
+                    "url": "https://www.mirror.co.uk/news/world-news/ukraine-involved-mh17-downing-claims-14184413",
+                    "external_id": "The Mirror: ukraine involved mh17"
+                }
+            ],
+            "x_identified_via": "OII"
+        }
+    ]
+}

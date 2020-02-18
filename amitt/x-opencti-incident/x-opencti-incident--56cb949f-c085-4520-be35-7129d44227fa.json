@@ -1,0 +1,33 @@
+{
+    "type": "bundle",
+    "id": "bundle--89e4b602-19cc-46ec-bb5e-7964e08f67d4",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "x-opencti-incident",
+            "id": "x-opencti-incident--56cb949f-c085-4520-be35-7129d44227fa",
+            "created_by_ref": "identity--dcb70c08-a4b0-4d2d-8141-b28ca5f0a43a",
+            "created": "2019-03-20T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.347Z",
+            "name": "North Macedonia",
+            "description": "",
+            "first_seen": "2018-01-01T00:00:00Z",
+            "external_references": [
+                {
+                    "source_name": "New York Times",
+                    "url": "https://www.nytimes.com/2018/09/16/world/europe/macedonia-referendum-russia-nato.html",
+                    "external_id": "New York Times 2018-09-16"
+                },
+                {
+                    "source_name": "Polygraph",
+                    "url": "https://www.polygraph.info/a/disinfo-analysis-macedonia-nato-russia/29770631.html",
+                    "external_id": "Polygraph: disinfo analysis macedonia"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c32b1522-2b13-4159-8a40-56fd4151016d"
+            ],
+            "x_identified_via": ""
+        }
+    ]
+}

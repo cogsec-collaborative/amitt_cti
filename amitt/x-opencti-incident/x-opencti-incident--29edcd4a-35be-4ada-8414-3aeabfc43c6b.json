@@ -1,0 +1,28 @@
+{
+    "type": "bundle",
+    "id": "bundle--872f27ae-ce33-44c1-9a3a-824889757bca",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "x-opencti-incident",
+            "id": "x-opencti-incident--29edcd4a-35be-4ada-8414-3aeabfc43c6b",
+            "created_by_ref": "identity--dcb70c08-a4b0-4d2d-8141-b28ca5f0a43a",
+            "created": "2019-02-24T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.333Z",
+            "name": "Beyonce protest rallies",
+            "description": "use both pro- and anti- topic messaging to create an artificial argument in real life. ",
+            "first_seen": "2016-01-01T00:00:00Z",
+            "external_references": [
+                {
+                    "source_name": "TheGuardian",
+                    "url": "https://www.theguardian.com/us-news/2018/may/10/russia-facebook-ads-us-elections-congress",
+                    "external_id": "TheGuardian 2018-05-10"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c32b1522-2b13-4159-8a40-56fd4151016d"
+            ],
+            "x_identified_via": ""
+        }
+    ]
+}

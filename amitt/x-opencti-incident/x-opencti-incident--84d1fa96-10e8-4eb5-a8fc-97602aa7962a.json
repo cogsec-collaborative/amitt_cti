@@ -1,0 +1,33 @@
+{
+    "type": "bundle",
+    "id": "bundle--668c3965-8d23-4258-a837-0f3cf6d83b67",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "x-opencti-incident",
+            "id": "x-opencti-incident--84d1fa96-10e8-4eb5-a8fc-97602aa7962a",
+            "created_by_ref": "identity--dcb70c08-a4b0-4d2d-8141-b28ca5f0a43a",
+            "created": "2019-02-24T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.344Z",
+            "name": "Brazilimpeachment",
+            "description": "",
+            "first_seen": "2016-01-01T00:00:00Z",
+            "external_references": [
+                {
+                    "source_name": "labic.net",
+                    "url": "http://www.labic.net/cartografia/a-rede-das-imagens-da-vaiadilma-novas-relacoes/",
+                    "external_id": "labic.net: a rede das imagens"
+                },
+                {
+                    "source_name": "Research Gate",
+                    "url": "https://www.researchgate.net/publication/300415619_The_Influence_of_Retweeting_Robots_During_Brazilian_Protests",
+                    "external_id": "Research Gate: influence of retweeting robots"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c32b1522-2b13-4159-8a40-56fd4151016d"
+            ],
+            "x_identified_via": "OII"
+        }
+    ]
+}

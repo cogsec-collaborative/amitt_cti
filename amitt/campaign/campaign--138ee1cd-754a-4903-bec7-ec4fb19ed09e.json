@@ -1,0 +1,24 @@
+{
+    "type": "bundle",
+    "id": "bundle--f884a977-257c-4cc7-b024-e655dc17c227",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "campaign",
+            "id": "campaign--138ee1cd-754a-4903-bec7-ec4fb19ed09e",
+            "created": "2019-02-24T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.354Z",
+            "name": "Brexit vote",
+            "description": "In early 2014, then UK PM David Cameron outlined the changes he aimed to bring about in the EU and in the UK's relationship with it. These were: additional immigration controls, especially for citizens of new EU member states; tougher immigration rules for present EU citizens; new powers for national parliaments collectively to veto proposed EU laws; new free-trade agreements and a reduction in bureaucracy for businesses; a lessening of the influence of the European Court of Human Rights on British police and courts; more power for individual member states, and less for the central EU; and abandonment of the EU notion of \"ever closer union\".He intended to bring these about during a series of negotiations with other EU leaders and then, if re-elected, to announce a referendum.\nEuropean Union Referendum Act was passed by the Parliament of the United Kingdom. It extended to include and take legislative effect in Gibraltar,and received royal assent on 17 December 2015.\n\nConservative-led Department for Culture, Media and Sport select committee concluded (2018) Russia engaged in \u2018unconventional warfare\u2019 during the Brexit campaign. This included \u2018156,252 Russian accounts tweeting about #Brexit\u2019 and posting \u2018over 45,000 Brexit messages in the last 48 hours of the campaign.\u2019 As it said, Kremlin-controlled media, \u2018RT and Sputnik had more reach on Twitter for anti-EU content than either Vote Leave or Leave.EU, during the referendum campaign\u2019.\n\nThe report by Democrats on the Senate foreign relations committee, titled Putin\u2019s asymmetric assault on democracy in Russia and Europe: implications for US national security, pinpoints the way in which UK campaign finance laws do not require disclosure of political donations if they are from \u201cthe beneficial owners of non-British companies that are incorporated in the EU and carry out business in the UK\u201d.\n\nThe senators point out that Ukip and its then-leader, Nigel Farage, did not just fan anti-EU sentiment but also \u201ccriticised European sanctions on Russia, and provided flattering assessments of Russian President Putin\u201d.\n\nThe report adds that although officially the Russian government asserted its neutrality on Brexit, its English-language media outlets RT and Sputnik covered the referendum campaign extensively and offered \u2018\u2019systematically one-sided coverage\u2019\u2019.",
+            "first_seen": "2016-01-01T00:00:00Z",
+            "external_references": [
+                {
+                    "source_name": "Forbes",
+                    "url": "https://www.forbes.com/sites/emmawoollacott/2018/11/01/russian-trolls-used-islamophobia-to-whip-up-support-for-brexit/#1369afb665f2",
+                    "external_id": "Forbes 2018-11-01"
+                }
+            ],
+            "x_identified_via": ""
+        }
+    ]
+}

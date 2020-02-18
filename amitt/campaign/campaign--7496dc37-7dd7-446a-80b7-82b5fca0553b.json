@@ -1,0 +1,39 @@
+{
+    "type": "bundle",
+    "id": "bundle--5407462a-e91f-41b6-93d9-43018ca21c14",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "campaign",
+            "id": "campaign--7496dc37-7dd7-446a-80b7-82b5fca0553b",
+            "created": "2019-03-20T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.359Z",
+            "name": "Military veterans Targetting",
+            "description": "",
+            "first_seen": "2017-01-01T00:00:00Z",
+            "external_references": [
+                {
+                    "source_name": "Stipes",
+                    "url": "https://www.stripes.com/congressmen-urge-fbi-to-investigate-bots-targeting-veterans-with-fake-news-1.573284",
+                    "external_id": "Stripes: fbi investigate bot targeting veterans"
+                },
+                {
+                    "source_name": "VOA News",
+                    "url": "https://www.voanews.com/a/russia-influence-operations-taking-aim-at-us-military/4640751.html",
+                    "external_id": "VOA News: russian influence operations"
+                },
+                {
+                    "source_name": "Washington Post",
+                    "url": "https://www.washingtonpost.com/news/the-switch/wp/2017/10/09/russian-operatives-used-twitter-and-facebook-to-target-veterans-and-military-personnel-study-says/?utm_term=.d6fa34d4819c",
+                    "external_id": "Washington Post 2017-10-09"
+                },
+                {
+                    "source_name": "oii.ox.ac.uk",
+                    "url": "https://comprop.oii.ox.ac.uk/research/working-papers/vetops/",
+                    "external_id": "oii.ox.ac.uk: working papers vetops"
+                }
+            ],
+            "x_identified_via": ""
+        }
+    ]
+}

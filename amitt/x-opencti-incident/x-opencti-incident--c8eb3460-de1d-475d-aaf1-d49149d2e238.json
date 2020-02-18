@@ -1,0 +1,28 @@
+{
+    "type": "bundle",
+    "id": "bundle--5e1aca3c-e859-49b7-b3c3-0add7d540fea",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "x-opencti-incident",
+            "id": "x-opencti-incident--c8eb3460-de1d-475d-aaf1-d49149d2e238",
+            "created_by_ref": "identity--dcb70c08-a4b0-4d2d-8141-b28ca5f0a43a",
+            "created": "2019-02-01T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.335Z",
+            "name": "CovingtonTeen",
+            "description": "",
+            "first_seen": "2019-01-01T00:00:00Z",
+            "external_references": [
+                {
+                    "source_name": "WCPO",
+                    "url": "https://www.wcpo.com/news/national/fact-check-viral-misinformation-about-covington-catholic-nathan-phillips-infects-the-internet",
+                    "external_id": "WCPO: fact check viral misinfo"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c32b1522-2b13-4159-8a40-56fd4151016d"
+            ],
+            "x_identified_via": ""
+        }
+    ]
+}

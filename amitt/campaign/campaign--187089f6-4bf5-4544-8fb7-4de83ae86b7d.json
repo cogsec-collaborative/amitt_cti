@@ -1,0 +1,24 @@
+{
+    "type": "bundle",
+    "id": "bundle--955b7ee1-9783-4cde-9fee-8990e86e6958",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "campaign",
+            "id": "campaign--187089f6-4bf5-4544-8fb7-4de83ae86b7d",
+            "created": "2019-02-24T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.355Z",
+            "name": "Armenia elections",
+            "description": "",
+            "first_seen": "2017-01-01T00:00:00Z",
+            "external_references": [
+                {
+                    "source_name": "Medium",
+                    "url": "https://medium.com/dfrlab/fakes-bots-and-blockings-in-armenia-44a4c87ebc46",
+                    "external_id": "Medium: fakes bots and blockings"
+                }
+            ],
+            "x_identified_via": "OII"
+        }
+    ]
+}

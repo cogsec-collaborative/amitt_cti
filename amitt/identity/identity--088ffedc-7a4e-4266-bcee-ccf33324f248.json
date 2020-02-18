@@ -1,0 +1,21 @@
+{
+    "type": "bundle",
+    "id": "bundle--61296b6f-bd35-4d1a-99b7-407fdf3d5128",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "identity",
+            "id": "identity--088ffedc-7a4e-4266-bcee-ccf33324f248",
+            "created": "2019-12-07T21:27:58.369Z",
+            "modified": "2019-12-08T02:27:58.369Z",
+            "name": "UK",
+            "description": "UK",
+            "identity_class": "organization",
+            "sectors": [
+                ""
+            ],
+            "contact_information": "",
+            "x_identified_via": ""
+        }
+    ]
+}

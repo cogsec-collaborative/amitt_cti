@@ -1,0 +1,21 @@
+{
+    "type": "bundle",
+    "id": "bundle--7a040608-c96b-4d73-93f6-fd5f7698204c",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "identity",
+            "id": "identity--e0a22c6c-f45f-4a29-b4c0-7a228e704bb1",
+            "created": "2019-12-07T21:27:58.369Z",
+            "modified": "2019-12-08T02:27:58.369Z",
+            "name": "USA",
+            "description": "USA",
+            "identity_class": "organization",
+            "sectors": [
+                ""
+            ],
+            "contact_information": "",
+            "x_identified_via": ""
+        }
+    ]
+}

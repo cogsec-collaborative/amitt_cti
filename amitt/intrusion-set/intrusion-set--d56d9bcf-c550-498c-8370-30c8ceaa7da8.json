@@ -1,0 +1,22 @@
+{
+    "type": "bundle",
+    "id": "bundle--42cb5dc7-7900-4108-82b1-772be3182223",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "intrusion-set",
+            "id": "intrusion-set--d56d9bcf-c550-498c-8370-30c8ceaa7da8",
+            "created": "2019-12-07T21:27:58.364Z",
+            "modified": "2019-12-08T02:27:58.364Z",
+            "name": "Internet Research Agency",
+            "description": "Russia backed IRA.",
+            "first_seen": "2014-01-01T00:00:00Z",
+            "resource_level": "organization",
+            "primary_motivation": "",
+            "secondary_motivations": [
+                ""
+            ],
+            "x_identified_via": ""
+        }
+    ]
+}

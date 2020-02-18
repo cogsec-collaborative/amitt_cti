@@ -1,0 +1,27 @@
+{
+    "type": "bundle",
+    "id": "bundle--5f250271-3741-41ad-bbab-85b109750872",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "x-amitt-tactic",
+            "id": "x-amitt-tactic--cc1197e9-8582-48a0-a61f-be78568b05e3",
+            "created_by_ref": "identity--dcb70c08-a4b0-4d2d-8141-b28ca5f0a43a",
+            "created": "2019-12-08T02:27:58.309Z",
+            "modified": "2019-12-08T02:27:58.309Z",
+            "name": "Exposure",
+            "description": "Release content to general public or push to larger population",
+            "external_references": [
+                {
+                    "source_name": "amitt-attack",
+                    "url": "https://github.com/misinfosecproject/amitt_framework/blob/master/tactics/TA09.md",
+                    "external_id": "TA09"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c32b1522-2b13-4159-8a40-56fd4151016d"
+            ],
+            "x_amitt_shortname": "exposure"
+        }
+    ]
+}

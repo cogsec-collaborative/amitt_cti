@@ -1,0 +1,34 @@
+{
+    "type": "bundle",
+    "id": "bundle--49e21ebc-fb67-4d4c-8ab7-c389334d42ba",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "campaign",
+            "id": "campaign--8c5789d3-dd05-4027-b2bb-821fbde4d61a",
+            "created": "2019-03-20T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.359Z",
+            "name": "White Genocide",
+            "description": "",
+            "first_seen": "2018-01-01T00:00:00Z",
+            "external_references": [
+                {
+                    "source_name": "smh.com.au",
+                    "url": "https://www.smh.com.au/world/oceania/the-high-price-of-white-genocide-politics-for-australia-20180724-p4zt9k.html",
+                    "external_id": "smk.com.au: high price of white genocide"
+                },
+                {
+                    "source_name": "The Atlantic",
+                    "url": "https://www.theatlantic.com/politics/archive/2018/08/trump-white-nationalism/568393/",
+                    "external_id": "The Atlantic: trump white nationalism"
+                },
+                {
+                    "source_name": "iafrikan.com",
+                    "url": "https://www.iafrikan.com/2018/11/20/social-media-usa-south-africa-fake-news-disinformation/",
+                    "external_id": "iafrikan.com 2018-11-20"
+                }
+            ],
+            "x_identified_via": ""
+        }
+    ]
+}

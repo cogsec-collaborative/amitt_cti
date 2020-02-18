@@ -1,0 +1,27 @@
+{
+    "type": "bundle",
+    "id": "bundle--53724153-334d-4aac-9889-7e740daf6d68",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "x-amitt-tactic",
+            "id": "x-amitt-tactic--a906aa36-c586-4994-97d3-e1566b559522",
+            "created_by_ref": "identity--dcb70c08-a4b0-4d2d-8141-b28ca5f0a43a",
+            "created": "2019-12-08T02:27:58.307Z",
+            "modified": "2019-12-08T02:27:58.307Z",
+            "name": "Strategic Planning",
+            "description": "Defining the desired end state that is the set of required conditions that defines achievement of all objectives.",
+            "external_references": [
+                {
+                    "source_name": "amitt-attack",
+                    "url": "https://github.com/misinfosecproject/amitt_framework/blob/master/tactics/TA01.md",
+                    "external_id": "TA01"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c32b1522-2b13-4159-8a40-56fd4151016d"
+            ],
+            "x_amitt_shortname": "strategic-planning"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "type": "bundle",
+    "id": "bundle--0a9f28ee-7b90-486d-a34c-6aaa832725e5",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "identity",
+            "id": "identity--200339dd-63e4-4cf3-ba0c-82257564bbc5",
+            "created": "2019-02-24T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.366Z",
+            "name": "Russia",
+            "description": "Russia",
+            "identity_class": "organization",
+            "sectors": [
+                ""
+            ],
+            "contact_information": "",
+            "x_identified_via": "OII"
+        }
+    ]
+}

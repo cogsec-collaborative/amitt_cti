@@ -1,0 +1,16 @@
+{
+    "type": "bundle",
+    "id": "bundle--f4330af9-c607-41dd-a026-2a3eeea5fee0",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "relationship",
+            "id": "relationship--06be5e25-5f30-4d44-a439-2082f0bc7de4",
+            "created": "2019-12-08T02:27:58.401Z",
+            "modified": "2019-12-08T02:27:58.401Z",
+            "relationship_type": "targets",
+            "source_ref": "intrusion-set--63b54833-8beb-4ed3-aa62-2bd259d54122",
+            "target_ref": "identity--1e12546b-6f08-44ca-ae89-7a720aeb350c"
+        }
+    ]
+}

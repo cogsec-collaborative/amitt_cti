@@ -1,0 +1,33 @@
+{
+    "type": "bundle",
+    "id": "bundle--e8ee3678-8452-4466-a534-aeadcecd4a7a",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "x-opencti-incident",
+            "id": "x-opencti-incident--eea22c6e-c3f1-4258-915e-3c1fcfc87678",
+            "created_by_ref": "identity--dcb70c08-a4b0-4d2d-8141-b28ca5f0a43a",
+            "created": "2019-03-20T00:00:00.000Z",
+            "modified": "2019-12-08T02:27:58.351Z",
+            "name": "Chemnitz",
+            "description": "",
+            "first_seen": "2018-01-01T00:00:00Z",
+            "external_references": [
+                {
+                    "source_name": "thebureauinvestigates.com",
+                    "url": "https://www.thebureauinvestigates.com/stories/2018-09-04/chemnitz-far-right-alternative-news",
+                    "external_id": "thebureauinvestigates.com 2018-09-04"
+                },
+                {
+                    "source_name": "Spiegel",
+                    "url": "http://www.spiegel.de/international/germany/merkel-facing-turbulence-after-right-wing-unrest-a-1228121.html",
+                    "external_id": "Spiegel: merkel facing turbulence"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c32b1522-2b13-4159-8a40-56fd4151016d"
+            ],
+            "x_identified_via": ""
+        }
+    ]
+}

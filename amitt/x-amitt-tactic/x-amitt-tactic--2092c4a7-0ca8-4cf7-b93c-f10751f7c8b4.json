@@ -1,0 +1,27 @@
+{
+    "type": "bundle",
+    "id": "bundle--5e739893-55d8-47b2-bea7-3b1db29bbc8e",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "x-amitt-tactic",
+            "id": "x-amitt-tactic--2092c4a7-0ca8-4cf7-b93c-f10751f7c8b4",
+            "created_by_ref": "identity--dcb70c08-a4b0-4d2d-8141-b28ca5f0a43a",
+            "created": "2019-12-08T02:27:58.309Z",
+            "modified": "2019-12-08T02:27:58.309Z",
+            "name": "Pump Priming",
+            "description": "Release content on a targetted small scale, prior to general release, including releasing seed narratives",
+            "external_references": [
+                {
+                    "source_name": "amitt-attack",
+                    "url": "https://github.com/misinfosecproject/amitt_framework/blob/master/tactics/TA08.md",
+                    "external_id": "TA08"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--c32b1522-2b13-4159-8a40-56fd4151016d"
+            ],
+            "x_amitt_shortname": "pump-priming"
+        }
+    ]
+}
